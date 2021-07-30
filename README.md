@@ -47,10 +47,15 @@ I've attached the dataset within the project.😃
 * ***Image***
 <img src="https://scontent.fjai1-1.fna.fbcdn.net/v/t1.6435-9/78855290_10157561973311047_8648324784058269696_n.png?_nc_cat=106&ccb=1-3&_nc_sid=6e5ad9&_nc_ohc=oTDZpb-AqckAX_yOiZm&_nc_ht=scontent.fjai1-1.fna&oh=85f168944167c2d00066405fc413d82a&oe=6128BD4C" width="400">
 My favourite team {RCB}
+
+
 ### Prerequisites
+
 - Jupyter Notebook
 - Any web browser
+- 
 ### Python Packages Used
+
 ``` 
 pandas
 matlotlib
